@@ -1,7 +1,7 @@
 ## Twitch Chat Client for Terminal made in go
-Screenshots:
+Preview:
 
-![alt text](https://github.com/pukapy/tcct/blob/master/screenshots/gitt.png)
+![alt text](https://github.com/pukapy/tcct/blob/master/screenshots/gitt2.gif)
 
 ## Usage
 1. Edit conf.json with your username, channel, api_key(oauth2)
