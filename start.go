@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/pukapy/tcct"
+	"github.com/pukapy/tcct/tcct"
 	"github.com/jroimartin/gocui"
 	"log"
 	"fmt"
